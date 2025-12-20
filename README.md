@@ -1,4 +1,4 @@
-# sapp
+# biometric-authentication
 
 A new Flutter project.
 
